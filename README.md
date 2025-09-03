@@ -87,16 +87,6 @@ By the end of this course, you’ll be confident in using Linux daily for DevOps
 
 ---
 
-### **Week 8 – DevOps & Cloud Integration**  
-- ☁️ Linux in Cloud (AWS, Azure, GCP).  
-- 🔄 Running background processes: `nohup`, `&`, `screen`, `tmux`.  
-- 📜 System logs: `/var/log`.  
-- 👀 Log monitoring: `tail -f`.  
-- 🔐 Linux security basics: `firewalld`, `ufw`, `SELinux`.  
-- 🛠️ Real-world DevOps tasks: Debugging a failed **CI/CD build** due to missing tools.  
-
----
-
 ## 🎯 Final Student Outcomes  
 By the end of this course, learners will:  
 ✔️ Comfortably use Linux as a daily DevOps engineer’s tool.  
